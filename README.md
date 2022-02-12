@@ -8,3 +8,4 @@ This notebook is about:
 - Performing some pretty quick and dirty data exploration
 - Getting some simple statistics
 - Visualising the results
+- Analysis of corona virus variants globally was added later
