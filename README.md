@@ -9,3 +9,4 @@ This notebook is about:
 - Getting some simple statistics
 - Visualising the results
 - Analysis of corona virus variants globally was added later
+- I could include a notebook with interactive visualisation and annimations because of size limit!
