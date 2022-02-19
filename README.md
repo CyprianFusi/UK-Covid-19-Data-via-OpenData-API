@@ -10,4 +10,4 @@ This notebook is about:
 - Visualising the results
 - Analysis of corona virus variants globally was added later
 - I could include a notebook with interactive visualisation and annimations because of size limit!
-- Also see https://www.kaggle.com/cyprianfusi/notebook1a843f4f32/edit
+- Also see https://www.kaggle.com/cyprianfusi/notebook1a843f4f32
