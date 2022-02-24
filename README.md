@@ -9,5 +9,5 @@ This notebook is about:
 - Getting some simple statistics
 - Visualising the results
 - Analysis of corona virus variants globally was added later
-- I could include a notebook with interactive visualisation and annimations because of size limit!
+- I could not include a notebook with interactive visualisation and annimations because of size limit on this platform!
 - Also see https://www.kaggle.com/cyprianfusi/notebook1a843f4f32
